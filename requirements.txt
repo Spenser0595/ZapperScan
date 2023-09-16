@@ -1,0 +1,3 @@
+python-telegram-bot
+python-nmap
+python-whois
